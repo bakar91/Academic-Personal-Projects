@@ -1,3 +1,3 @@
-clinicaltrial_2021.csv.gz - Clinical Trial file from U.S. National Library of Medicine for 2021
-mesh.csv - Conditions with their hierarchy from U.S. National Library of Medicine
-pharma.csv - List of pharmaceutical companies infractions from 2000 downloaded from https://violationtracker.goodjobsfirst.org/industry/pharmaceuticals
+- clinicaltrial_2021.csv.gz - Clinical Trial file from U.S. National Library of Medicine for 2021
+- mesh.csv - Conditions with their hierarchy from U.S. National Library of Medicine
+- pharma.csv - List of pharmaceutical companies infractions from 2000 downloaded from https://violationtracker.goodjobsfirst.org/industry/pharmaceuticals
